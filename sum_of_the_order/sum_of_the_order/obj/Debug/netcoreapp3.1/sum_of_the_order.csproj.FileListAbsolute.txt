@@ -1,0 +1,13 @@
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\bin\Debug\netcoreapp3.1\sum_of_the_order.exe
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\bin\Debug\netcoreapp3.1\sum_of_the_order.deps.json
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\bin\Debug\netcoreapp3.1\sum_of_the_order.runtimeconfig.json
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\bin\Debug\netcoreapp3.1\sum_of_the_order.runtimeconfig.dev.json
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\bin\Debug\netcoreapp3.1\sum_of_the_order.dll
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\bin\Debug\netcoreapp3.1\sum_of_the_order.pdb
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\obj\Debug\netcoreapp3.1\sum_of_the_order.csprojAssemblyReference.cache
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\obj\Debug\netcoreapp3.1\sum_of_the_order.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\obj\Debug\netcoreapp3.1\sum_of_the_order.AssemblyInfo.cs
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\obj\Debug\netcoreapp3.1\sum_of_the_order.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\obj\Debug\netcoreapp3.1\sum_of_the_order.dll
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\obj\Debug\netcoreapp3.1\sum_of_the_order.pdb
+C:\Users\stani\source\repos\sum_of_the_order\sum_of_the_order\obj\Debug\netcoreapp3.1\sum_of_the_order.genruntimeconfig.cache
